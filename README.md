@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+ - 
+ - только слаженная командная работа приносит желаемый результат
+ - стремлюсь писать чистый и поянтный код, который легко можно поддерживать в дальнейшем
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Juneiak/Juneiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
