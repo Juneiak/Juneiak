@@ -1,6 +1,6 @@
 # HelloWorld! 👋  
 Меня зовут Алан, я начинающий frontend разработчик из Казани  
-мое резюме  - [GoogleDocs](https://docs.google.com/document/d/1ron3eHD4BrEd7MI--i3Io_2x6LjRRmdH4X6zdyLtdGo/edit?usp=sharing)
+[Резюме](https://docs.google.com/document/d/1ron3eHD4BrEd7MI--i3Io_2x6LjRRmdH4X6zdyLtdGo/edit?usp=sharing)
 
  - следую принципам DRY, KISS, YAGNI
  - стараюсь писать чистый и понятный код, который легко можно поддерживать в дальнейшем
