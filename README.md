@@ -1,11 +1,12 @@
 # HelloWorld! 👋  
-Меня зовут Алан, я начинающий frontend разработчик из Казани
-Я не так давно в разработке, но стараюсь придерживаться следующих принципов работы:  
+Меня зовут Алан, я начинающий frontend разработчик из Казани  
+мое резюме  - [GoogleDocs](https://docs.google.com/document/d/1ron3eHD4BrEd7MI--i3Io_2x6LjRRmdH4X6zdyLtdGo/edit?usp=sharing)
 
- - х
- - стараюсь писать чистый и поянтный код, который легко можно поддерживать в дальнейшем
+ - следую принципам DRY, KISS, SOLID
+ - считаю что успех проекта зависит от слаженной работы команды
+ - стараюсь писать чистый и понятный код, который легко можно поддерживать в дальнейшем
 
-мое резюме - [GoogleDocs](https://docs.google.com/document/d/1ron3eHD4BrEd7MI--i3Io_2x6LjRRmdH4X6zdyLtdGo/edit?usp=sharing)
+
 
 ## :wrench: Мой стек:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,6 +25,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-## :trophy: Статистика
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juneiak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Alans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juneiak&show_icons=true&include_all_commits=true&hide=contribs,issues) 
+## :trophy: Статистика:
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=Comediant24&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Juneiak&hide=contribs&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Comediant24&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juneiak&layout=compact" />
+</a>
+</div>
