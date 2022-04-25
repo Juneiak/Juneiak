@@ -1,5 +1,5 @@
 # HelloWorld! 👋  
-Меня зовут Алан, я начинающий frontend разработчик из Казани  
+Меня зовут Алан, я frontend разработчик из Казани  
 [Резюме](https://docs.google.com/document/d/1ron3eHD4BrEd7MI--i3Io_2x6LjRRmdH4X6zdyLtdGo/edit?usp=sharing)
 
  - следую принципам DRY, KISS, YAGNI
