@@ -1,14 +1,11 @@
 # HelloWorld! 👋  
-Меня зовут Алан, я frontend разработчик из Казани  
-[Резюме](https://docs.google.com/document/d/1ron3eHD4BrEd7MI--i3Io_2x6LjRRmdH4X6zdyLtdGo/edit?usp=sharing)
+my name is Alan, i'm frontend developer
 
- - следую принципам DRY, KISS, YAGNI
- - стараюсь писать чистый и понятный код, который легко можно поддерживать в дальнейшем
- - считаю что успех проекта зависит от слаженной работы команды
+ - Write clear and understandable code, which can be easily supported in the future
+ - Follow the principles of DRY, KISS, YAGNI
+ - I believe that the success of the project depends on the coordinated work of the team
 
-
-
-## :wrench: Мой стек:
+## :wrench: My tech stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -24,7 +21,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## :trophy: Статистика:
+## :trophy: Statistics:
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Comediant24&hide=contribs&show_icons=true">
   <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Juneiak&hide=contribs&show_icons=true" />
