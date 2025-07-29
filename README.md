@@ -1,9 +1,5 @@
 # HelloWorld! 👋  
-my name is Alan, i'm frontend developer
-
- - Write clear and understandable code, which can be easily supported in the future
- - Follow the principles of DRY, KISS, YAGNI
- - I believe that the success of the project depends on the coordinated work of the team
+my name is Alan, i'm fullstack developer
 
 ## :wrench: My tech stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
